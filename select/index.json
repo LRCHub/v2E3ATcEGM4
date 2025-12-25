@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Small Worlds",
+  "base_artist": "Mac Miller",
+  "createdAt": "2025-12-25T11:32:51.916487Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Small Worlds",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/01_Small_Worlds_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Small Worlds",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/02_Small_Worlds_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Small Worlds (Live at NPR Music)",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/03_Small_Worlds_(Live_at_NPR_Music)_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Small Worlds",
+      "artist": "Rayland Baxter",
+      "has_synced": true,
+      "path": "select/04_Small_Worlds_Rayland_Baxter.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Small Worlds",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/05_Small_Worlds_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mac Miller - Small Worlds",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/06_Mac_Miller_-_Small_Worlds_Mac_Miller.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Small Worlds",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/pl_01_Small_Worlds_Mac_Miller.txt"
+    }
+  ]
+}
